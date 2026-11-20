@@ -1,1 +1,37 @@
 git is a free,open-source distributed version control system.
+GIT AND GITHUB
+
+1.  GIT
+
+Definition: Git is a free, open-source version control system used to
+track changes in files and manage a project’s source code.
+
+Description: - Git helps developers keep a record of changes made to
+their code. - It allows developers to go back to an earlier version if a
+mistake occurs. - It helps multiple developers work on the same
+project. - Git works on your local computer, so you can use it without
+an internet connection. - Common Git commands include git init, git add,
+git commit, git status, and git push.
+
+2.  GITHUB
+
+Definition: GitHub is an online platform used to store, manage, and
+share projects that use Git.
+
+Description: - GitHub stores project files in online repositories. - It
+allows developers to share their code with others. - It helps teams
+collaborate on projects. - It keeps project history and makes it easier
+to review changes. - It provides features such as pull requests, issues,
+and project discussions.
+
+3.  DIFFERENCE BETWEEN GIT AND GITHUB
+
+Git: - Git is a version control system. - It tracks changes in files. -
+It can work on your local computer. - It is a tool.
+
+GitHub: - GitHub is an online platform. - It hosts Git repositories. -
+It helps people share and collaborate on projects. - It is a
+service/platform.
+
+IN SIMPLE WORDS: Git tracks changes in your project, while GitHub stores
+your Git project online and helps you share it with others.
